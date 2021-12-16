@@ -5,7 +5,7 @@
   4) 설치가 안되는 경우 파이썬 컴파일러 설치 : https://www.python.org/downloads
   
   
-2. Jupiter notebook
+### Jupiter notebook
   1) pip install --upgrade pip
   2) pip install jupyter
   
